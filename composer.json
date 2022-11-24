@@ -1,7 +1,7 @@
 {
     "name": "c.reuter/cerberus-core",
     "description": "plugin for cerberus woocommerce plugins",
-    "type": "composer-plugin",
+    "type": "package",
     "authors": [
         {
             "name": "casey",

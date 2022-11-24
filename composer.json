@@ -1,0 +1,12 @@
+{
+    "name": "c.reuter/cerberus-core",
+    "description": "plugin for cerberus woocommerce plugins",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "casey",
+            "email": "casey.reuter@trizelos.com"
+        }
+    ],
+    "require": {}
+}
